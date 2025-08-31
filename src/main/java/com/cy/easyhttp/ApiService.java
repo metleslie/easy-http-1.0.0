@@ -1,6 +1,7 @@
 package com.cy.easyhttp;
 
-import com.cy.easyhttp.method.Get;
+
+import com.cy.easyhttp.annotation.method.Get;
 
 /**
  * @author Cyan
